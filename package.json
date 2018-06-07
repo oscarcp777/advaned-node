@@ -1,0 +1,17 @@
+{
+  "name": "advaned-nodejs",
+  "version": "1.0.0",
+  "description": "Advanced Node.js",
+  "author": "Oscar Caceres",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint": "^3.10.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarcp777/advaned-node.git"
+  },
+  "homepage": "https://github.com/oscarcp777/advaned-node#readme"
+}
